@@ -1,0 +1,136 @@
+{
+	"UNIT": [{
+			"SECTION_ID": 1,
+			"QUESTIONS": [{
+					"CHOICES": [{
+						"VAL": 1,
+						"WEIGHT": 1
+					}, {
+						"VAL": 2,
+						"WEIGHT": 2
+					}, {
+						"VAL": 3,
+						"WEIGHT": 3
+					}],
+					"SELECTED": 1
+				},
+				{
+					"CHOICES": [{
+						"VAL": 11,
+						"WEIGHT": 1
+					}, {
+						"VAL": 22,
+						"WEIGHT": 2
+					}, {
+						"VAL": 32,
+						"WEIGHT": 3
+					}],
+					"SELECTED": 11
+				},
+				{
+					"CHOICES": [{
+						"VAL": 111,
+						"WEIGHT": 1
+					}, {
+						"VAL": 222,
+						"WEIGHT": 2
+					}, {
+						"VAL": 322,
+						"WEIGHT": 3
+					}],
+					"SELECTED": 322
+				}
+			]
+		},
+
+		{
+			"SECTION_ID": 2,
+			"QUESTIONS": [{
+					"CHOICES": [{
+						"VAL": 1,
+						"WEIGHT": 1
+					}, {
+						"VAL": 2,
+						"WEIGHT": 2
+					}, {
+						"VAL": 3,
+						"WEIGHT": 3
+					}],
+					"SELECTED": 1
+				},
+				{
+					"CHOICES": [{
+						"VAL": 11,
+						"WEIGHT": 1
+					}, {
+						"VAL": 22,
+						"WEIGHT": 2
+					}, {
+						"VAL": 32,
+						"WEIGHT": 3
+					}],
+					"SELECTED": 11
+				},
+				{
+					"CHOICES": [{
+						"VAL": 111,
+						"WEIGHT": 1
+					}, {
+						"VAL": 222,
+						"WEIGHT": 2
+					}, {
+						"VAL": 322,
+						"WEIGHT": 3
+					}],
+					"SELECTED": 322
+				}
+			]
+		},
+
+
+		{
+			"SECTION_ID": 2,
+			"QUESTIONS": [{
+					"CHOICES": [{
+						"VAL": 1,
+						"WEIGHT": 1
+					}, {
+						"VAL": 2,
+						"WEIGHT": 2
+					}, {
+						"VAL": 3,
+						"WEIGHT": 3
+					}],
+					"SELECTED": 1
+				},
+				{
+					"CHOICES": [{
+						"VAL": 11,
+						"WEIGHT": 1
+					}, {
+						"VAL": 22,
+						"WEIGHT": 2
+					}, {
+						"VAL": 32,
+						"WEIGHT": 3
+					}],
+					"SELECTED": 11
+				},
+				{
+					"CHOICES": [{
+						"VAL": 111,
+						"WEIGHT": 1
+					}, {
+						"VAL": 222,
+						"WEIGHT": 2
+					}, {
+						"VAL": 322,
+						"WEIGHT": 3
+					}],
+					"SELECTED": 322
+				}
+			]
+		}
+
+	]
+}
